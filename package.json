@@ -1,0 +1,25 @@
+{
+  "name": "projetooreilly",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "express": "^4.17.1",
+    "express-handlebars": "^5.0.0",
+    "nodemon": "^2.0.4"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "nodemon src/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/torresluizg/ProgramandoWebComNodeeExpress.git"
+  },
+  "author": "Luiz Torres",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/torresluizg/ProgramandoWebComNodeeExpress/issues"
+  },
+  "homepage": "https://github.com/torresluizg/ProgramandoWebComNodeeExpress#readme"
+}
